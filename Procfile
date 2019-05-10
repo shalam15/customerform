@@ -1,1 +1,1 @@
-web: gunicorn customerform.wsgi —-log-file -
+web: gunicorn weandel-website.wsgi —-log-file -
