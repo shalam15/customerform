@@ -25,7 +25,7 @@ SECRET_KEY = 'z0-%))0hnt2+3s(v@*xu0fh5hurnll7aelh%#ee(2&!_ly=5te'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['0.0.0.0', 'localhost', 'weandel-website.herokuapp.com']
 
 
 # Application definition
