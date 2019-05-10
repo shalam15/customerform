@@ -11,6 +11,10 @@ class UserViewSet(generics.ListCreateAPIView):
     """
     queryset = Requestforms.objects.all()
     serializer_class = WebsiteContactForm
+
 class DetailCustomerRequest(generics.RetrieveUpdateDestroyAPIView):
+    """
+    API endpoint that shows users one by one.
+    """
     queryset = Requestforms.objects.all()
     serializer_class = WebsiteContactForm

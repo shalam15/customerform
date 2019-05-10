@@ -1,0 +1,1 @@
+web: gunicorn customerform.wsgi —-log-file -
