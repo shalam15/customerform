@@ -9,6 +9,8 @@ verify_ssl = true
 django = "==2.2"
 djangorestframework = "*"
 django-heroku = "*"
+import = "*"
+gunicorn = "*"
 
 [requires]
 python_version = "3.7"
