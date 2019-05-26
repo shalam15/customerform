@@ -1,0 +1,53 @@
+commit d3766c15aca711d5480bee08d6cc36a50e1517c4
+Author: shalam15 <salamajayi@yahoo.com>
+Date:   Thu May 9 22:57:19 2019 -0400
+
+    change allowed host settings
+
+commit eea9d86213386192f66f0fea6b2a4f25e777e7ef
+Author: shalam15 <salamajayi@yahoo.com>
+Date:   Thu May 9 22:45:00 2019 -0400
+
+    added gunicorn fix
+
+commit 1689b491d31fa7f1d78611db9321d95f36f5e65c
+Author: shalam15 <salamajayi@yahoo.com>
+Date:   Thu May 9 22:42:10 2019 -0400
+
+    added gunicorn
+
+commit 2f4f7ae5dd13c72f20f0f73f2a720dac6dcaeb28
+Author: shalam15 <salamajayi@yahoo.com>
+Date:   Thu May 9 22:35:09 2019 -0400
+
+    fixing allowed hosts
+
+commit 41b255ea89b2304735a4ffc1b9b0a3929de5f56f
+Author: shalam15 <salamajayi@yahoo.com>
+Date:   Thu May 9 22:16:58 2019 -0400
+
+    added procfile for deployment on heroku
+
+commit e068421025d471f2bde9e70829e229f32d4445f0
+Author: shalam15 <salamajayi@yahoo.com>
+Date:   Wed May 8 23:46:48 2019 -0400
+
+    added heroku clause for deployment, added to requiremtns
+
+commit 10f442236242b488faffb6312cde07546328f51c
+Author: shalam15 <salamajayi@yahoo.com>
+Date:   Wed May 8 23:45:09 2019 -0400
+
+    added heroku clause for deployment
+
+commit 778dbd4b51daeaf6fcfda56729fd570270d2303b
+Author: shalam15 <salamajayi@yahoo.com>
+Date:   Wed May 8 22:20:29 2019 -0400
+
+    redid all the python form
+
+commit b50f677d9364ad69cff7077ac243063fe1260ea2
+Author: shalam15 <salamajayi@yahoo.com>
+Date:   Wed May 8 22:19:11 2019 -0400
+
+    first commit
