@@ -25,7 +25,7 @@ SECRET_KEY = 'z0-%))0hnt2+3s(v@*xu0fh5hurnll7aelh%#ee(2&!_ly=5te'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['weandel-website.herokuapp.com']
+ALLOWED_HOSTS = ['ec2-18-188-106-40.us-east-2.compute.amazonaws.com']
 
 
 # Application definition
@@ -35,7 +35,7 @@ INSTALLED_APPS = [
     'django.contrib.contenttypes',
     'django.contrib.admin',
     'django.contrib.auth',
-    'django.contrib.sites', 
+    #'django.contrib.sites', 
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
@@ -139,5 +139,5 @@ REST_FRAMEWORK = {
 
 
 # Configure Django App for Heroku.
-import django_heroku
-django_heroku.settings(locals())
+#import django_heroku
+#django_heroku.settings(locals())
